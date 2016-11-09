@@ -1,2 +1,2 @@
-# vergi_numaras_validasyonu
+# vergi_numarasi_validasyonu
 Vergi Numarası Validasyonu
